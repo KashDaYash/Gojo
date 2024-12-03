@@ -5,7 +5,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KashDaYash&repo=Gojo&theme=flag-india)
 
 [![GIF](https://github.com/KashDaYash/Gojo/blob/main/KashDaYash.gif)](https://github.com/KashDaYash)
- [![KASHDAYASH](https://github-stats-alpha.vercel.app/api?username=KashDaYash)
+ [!KASHDAYASH](https://github-stats-alpha.vercel.app/api?username=KashDaYash)
 
 
 
