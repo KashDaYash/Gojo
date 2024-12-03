@@ -7,6 +7,7 @@ from pyrogram import Client
 from SafoneAPI import SafoneAPI
 from .logging import LOGGER
 
+uvloop.install()
 dirr()
 git()
 dbb()
