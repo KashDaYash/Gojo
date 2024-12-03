@@ -5,7 +5,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KashDaYash&repo=Gojo&theme=flag-india)
 
 [![GIF](https://github.com/KashDaYash/Gojo/blob/main/KashDaYash.gif)](https://github.com/KashDaYash)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=KashDaYash "MRChampu")](https://github-stats-alpha.vercel.app/api?username=KashDaYash "MRChampu")
+ [("KASHDAYASH")](https://github-stats-alpha.vercel.app/api?username=KashDaYash "KASHDAYASH")
 
 
 
@@ -28,8 +28,6 @@ GO TO [RELOAD.PY](https://github.com/KashDaYash/Gojo/blob/Master/Gojo/plugins/to
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KashDaYash/Gojo"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KashDaYash&show_icons=true&locale=en&layout=compact" alt="KashDaYash" /></p>
-
-[![Contributors](https://contrib.rocks/image?repo=KashDaYash/Gojo)](https://github.com/KashDaYash/Gojo/graphs/contributors)
 
 ### Contact :
 <a href="https://t.me/gitwizardbypass"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
