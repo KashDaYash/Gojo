@@ -9,10 +9,6 @@
 
 
 
-
-
-GO TO [RELOAD.PY](https://github.com/KashDaYash/Gojo/blob/Master/Gojo/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
-
 <p align="center">
   <img src="https://telegra.ph/file/a10977baa1d28de325764.jpg">
 </p>
