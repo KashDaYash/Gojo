@@ -6,6 +6,8 @@ from Gojo.misc import dbb, heroku
 from pyrogram import Client
 from SafoneAPI import SafoneAPI
 from .logging import LOGGER
+import uvloop
+
 
 uvloop.install()
 dirr()
